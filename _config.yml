@@ -1,7 +1,7 @@
 title: "Web blog of Gray Nolan"
 email: mdq1k84@gmail.com
 timezone: UTC+7
-baseurl: "https://zGrayx.github.io"
+baseurl: "https://open.github.io"
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
